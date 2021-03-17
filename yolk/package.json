@@ -1,0 +1,23 @@
+{
+  "name": "yolk",
+  "displayName": "Yolk",
+  "description": "",
+  "version": "0.0.22",
+  "publisher": "jeremybanka",
+  "repository": "jeremybanka/vscode_themes",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yolk",
+        "uiTheme": "vs",
+        "path": "./themes/yolk-color-theme.json"
+      }
+    ]
+  }
+}
