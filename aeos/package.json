@@ -1,0 +1,22 @@
+{
+  "name": "aeos",
+  "displayName": "Aeos",
+  "description": "",
+  "version": "0.0.22",
+  "publisher": "jeremybanka",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aeos",
+        "uiTheme": "vs",
+        "path": "./themes/Aeos-color-theme.json"
+      }
+    ]
+  }
+}

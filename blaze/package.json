@@ -1,0 +1,22 @@
+{
+  "name": "blaze",
+  "displayName": "blaze",
+  "description": "get lit",
+  "version": "0.1.7",
+  "publisher": "jeremybanka",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blaze",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blaze-color-theme.json"
+      }
+    ]
+  }
+}

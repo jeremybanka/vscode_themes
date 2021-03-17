@@ -1,0 +1,22 @@
+{
+  "name": "selena",
+  "displayName": "Selena",
+  "description": "from theia",
+  "version": "0.0.35",
+  "publisher": "jeremybanka",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Selena",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Selena-color-theme.json"
+      }
+    ]
+  }
+}
